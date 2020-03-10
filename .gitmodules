@@ -1,0 +1,3 @@
+[submodule "terraform-practice"]
+	path = terraform-practice
+	url = git@github.com:wand2016/terraform-practice.git
